@@ -1,0 +1,31 @@
+{
+  "name": "dekbot",
+  "version": "1.0.0",
+  "description": "An complex discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s0nyx",
+  "license": "ISC",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "cows": "^2.1.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "opusscript": "0.0.6",
+    "os": "^0.1.1",
+    "random-number": "0.0.9",
+    "simple-youtube-api": "^5.1.1",
+    "snekfetch": "^4.0.4",
+    "steamrep": "^1.0.1",
+    "urban": "^0.3.2",
+    "util": "^0.12.0",
+    "ytdl-core": "^0.29.2"
+  }
+}

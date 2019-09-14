@@ -1,0 +1,12 @@
+{
+
+	"bot_token":"NjIyMTUxOTc1MTAyMDU0NDAx.XX0YnA.193RRxT5HYBMhhgj_0DgiL2puy4",
+	"prefix":"n?",
+	"ownerID":"431021133299580938",
+	"google_api_key":"AIzaSyB4VOKyPbcZcWtWm6CgA5HDQTKpL02fmOI",
+
+	"mysql_host":"syko.top",
+	"mysql_user":"syko_bot",
+	"mysql_dbname":"syko_bot",
+	"mysql_pass":"CaLaProsti"
+}

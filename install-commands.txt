@@ -1,0 +1,11 @@
+npm install
+npm install discord.js
+npm install moment
+npm install mysql
+npm install util
+npm install simple-youtube-api
+npm install ytdl-core
+npm install ffmpeg
+npm install ffmpeg-binaries
+npm install nodeopus
+npm install opusscript
